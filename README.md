@@ -141,7 +141,4 @@ ___
 * Foundation for **LU decomposition**, **numerical stability**, and **matrix factorization techniques**.
 * Connects computational steps with **linear algebraic transformations**.
 
----
-
-Let me know if you'd like all of this compiled into a PDF or notebook format—or to go deeper into LU, QR, or numerical issues like pivoting strategies!
 
